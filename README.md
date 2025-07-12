@@ -13,7 +13,7 @@
 - 🚨 Emergency detection
 - 🧭 Inline hospital map using `folium` + `streamlit_folium`
 - 📁 CSV logging of chat history
-- 
+
 ---
 
 ## 🛠️ Tech Stack
